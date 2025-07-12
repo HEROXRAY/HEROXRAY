@@ -41,15 +41,13 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEROXRAY&show_icons=true&theme=radical)
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=HEROXRAY99&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HEROXRAY&theme=dracula)](https://git.io/streak-stats)
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEROXRAY99&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEROXRAY&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime Coding Activity
 [![WakaTime](https://wakatime.com/badge/user/HEROXRAY99.svg)](https://wakatime.com/@HEROXRAY99)
-
-*Learn how contributions count [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).*
 
 ---
 
@@ -62,17 +60,17 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
       <th>Language</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/HEROXRAY99/worldlock-plugin">WorldLock Plugin</a></td>
+      <td><a href="https://github.com/HEROXRAY/worldlock-plugin">WorldLock Plugin</a></td>
       <td>Locks/unlocks Minecraft worlds</td>
       <td>Skript | ★ 15 | ☄️ 3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/HEROXRAY99/survival-arena">Survival Arena</a></td>
+      <td><a href="https://github.com/HEROXRAY/survival-arena">Survival Arena</a></td>
       <td>Multiplayer survival mode</td>
       <td>Java | ★ 20 | ☄️ 5</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/HEROXRAY99/mini-games-hub">Mini Games Hub</a></td>
+      <td><a href="https://github.com/HEROXRAY/mini-games-hub">Mini Games Hub</a></td>
       <td>Collection of mini-games</td>
       <td>JavaScript | ★ 10 | ☄️ 2</td>
     </tr>
@@ -82,13 +80,13 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 ---
 
 ## 🚀 My Top Open Source Projects
-- **[Minecraft Plugin Toolkit](https://github.com/HEROXRAY99/minecraft-plugin-toolkit)**  
+- **[Minecraft Plugin Toolkit](https://github.com/HEROXRAY/minecraft-plugin-toolkit)**  
   - Tools for plugin development.  
   - 📝 Java | ★ 50 | ☄️ 10
-- **[Server Manager](https://github.com/HEROXRAY99/server-manager)**  
+- **[Server Manager](https://github.com/HEROXRAY/server-manager)**  
   - Manages Minecraft servers.  
   - 📝 JavaScript | ★ 30 | ☄️ 5
-- **[Game Config Generator](https://github.com/HEROXRAY99/game-config-gen)**  
+- **[Game Config Generator](https://github.com/HEROXRAY/game-config-gen)**  
   - Generates game configs.  
   - 📝 Python | ★ 25 | ☄️ 4
 
@@ -109,10 +107,10 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 ---
 
 ## 🛡️ Custom Badges
-[![Minecraft Dev](https://img.shields.io/badge/Minecraft%20Dev-Expert-green)](https://github.com/HEROXRAY99)
-[![Java Master](https://img.shields.io/badge/Java-Master-blue)](https://github.com/HEROXRAY99)
-[![Gamer](https://img.shields.io/badge/Gamer-Level%2010-orange)](https://github.com/HEROXRAY99)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HEROXRAY99+is+Building+Gaming+Worlds!)](https://git.io/typing-svg)
+[![Minecraft Dev](https://img.shields.io/badge/Minecraft%20Dev-Expert-green)](https://github.com/HEROXRAY)
+[![Java Master](https://img.shields.io/badge/Java-Master-blue)](https://github.com/HEROXRAY)
+[![Gamer](https://img.shields.io/badge/Gamer-Level%2010-orange)](https://github.com/HEROXRAY)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=HEROXRAY+is+Building+Gaming+Worlds!)](https://git.io/typing-svg)
 
 ---
 
@@ -132,9 +130,9 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 
 ## 🌐 Socials & Presence
 <div align="center">
-  <a href="https://twitter.com/HEROXRAY99"><img src="https://img.shields.io/twitter/follow/HEROXRAY99?label=Twitter&style=social" alt="Twitter"></a>
-  <a href="https://instagram.com/HEROXRAY99"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=social" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/HEROXRAY99"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=social" alt="LinkedIn"></a>
+  <a href="https://twitter.com/HEROXRAY"><img src="https://img.shields.io/twitter/follow/HEROXRAY?label=Twitter&style=social" alt="Twitter"></a>
+  <a href="https://instagram.com/HEROXRAY"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=social" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/HEROXRAY"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=social" alt="LinkedIn"></a>
 </div>
 
 ---
@@ -165,7 +163,7 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 
 ## 🎨 Pixel Art Showcase
 <div align="center">
-  <img src="https://github.com/HEROXRAY99/HEROXRAY99/blob/main/pixel-art.png?raw=true" alt="Pixel Art" width="200">
+  <img src="https://github.com/HEROXRAY/HEROXRAY/blob/main/pixel-art.png?raw=true" alt="Pixel Art" width="200">
 </div>
 *Custom Minecraft-themed pixel art by HEROXRAY99*
 
@@ -200,6 +198,6 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 ---
 
 ## 💡 Support Me
-Star my repos, subscribe to my [YouTube](https://youtube.com/@HEROXRAY99), or join my Discord! ❤️
+Star my repos, subscribe to my [YouTube](https://youtube.com/@HEROXRAY), or join my Discord! ❤️
 
 *Crafting epic gaming worlds, one code at a time!*
