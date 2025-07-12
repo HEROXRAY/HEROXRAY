@@ -38,7 +38,7 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 
 ## 📊 Stats and Activity
 ### GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HEROXRAY&show_icons=true&theme=radical)
 
 ### Contribution Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=HEROXRAY99&theme=dracula)](https://git.io/streak-stats)
