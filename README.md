@@ -165,7 +165,7 @@ Hey! I'm HEROXRAY99, a passionate Minecraft server developer, gamer, and tech en
 <div align="center">
   <img src="https://github.com/HEROXRAY/HEROXRAY/blob/main/pixel-art.png?raw=true" alt="Pixel Art" width="200">
 </div>
-*Custom Minecraft-themed pixel art by HEROXRAY99*
+*Custom Minecraft-themed pixel art by HEROXRAY*
 
 ---
 
